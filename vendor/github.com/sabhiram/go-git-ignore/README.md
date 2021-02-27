@@ -7,7 +7,7 @@ A gitignore parser for `Go`
 ## Install
 
 ```shell
-go get github.com/sabhiram/go-git-ignore
+go get github.com/sabhiram/go-gitignore
 ```
 
 ## Usage
